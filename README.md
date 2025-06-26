@@ -51,7 +51,7 @@ Este projeto oferece as funcionalidades do backend para a plataforma Complexo, i
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/complexo-backend.git
+git clone https://github.com/jeffmqs/complexo-backend.git
 
 # Importe o projeto em sua IDE (IntelliJ, Eclipse ou VSCode)
 
